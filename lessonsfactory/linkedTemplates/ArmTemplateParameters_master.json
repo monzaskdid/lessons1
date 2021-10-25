@@ -11,6 +11,9 @@
 		"AzureSqlDatabase1_connectionString": {
 			"value": ""
 		},
+		"SqlServerLinkedService_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
