@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_duy",
+				"name": "Copy_vto",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
